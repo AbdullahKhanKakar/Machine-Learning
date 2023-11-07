@@ -10,7 +10,9 @@
   </li>
   <li>Feature Engineering
     <ul>
-      <li>Feature Scaling</li>
+      <li>Feature Scaling >> Normalization & Standardization(also known as z-score normalization)</li>
+      <li>Handling Categorical Data >> One-Hot Encoding & Ordinal Encoding & Label Encoding</li>
+      <li>Mathematical Transformations >> Function Transformers(log, square, squareroot, reciprocal transformers...) & Power Transformers(Box-Cox, Yeo-Johnson)</li>
     </ul>
   </li>
 </ol>
