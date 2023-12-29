@@ -15,4 +15,10 @@
       <li>Mathematical Transformations >> Function Transformers(log, square, squareroot, reciprocal transformers...) & Power Transformers(Box-Cox, Yeo-Johnson)</li>
     </ul>
   </li>
+  <li>
+    Supervised Algorithms(Linear, Logistic, SVM, Naiye Bayes, Random Forest, Decision Tree Classifiers and Regressors)
+  </li>
+  <li>
+    Unsupervised Algorithms(K-Means clustering)
+  </li>
 </ol>
